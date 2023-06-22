@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+    <test name="TestVagrant_Demo">
+        <classes>
+            <class name="tests.CityTempTests"/>
+        </classes>
+    </test>
+</suite> <!-- Suite -->
